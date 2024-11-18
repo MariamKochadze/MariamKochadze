@@ -16,5 +16,18 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
 
+## 🌟 My Last Projects
+
+| Project Name               | Code                                  | Deploy Link                                                   |
+|----------------------------|---------------------------------------|-------------------------------------------------------------|
+| Coffee House              | [GitHub Repository](#)                | [Visit Site](https://rolling-scopes-school.github.io/mariamkochadze-JSFEEN2023Q4/coffee-house/index.html) |
+| Flower Shop               | [GitHub Repository](#)                | [Visit Site](https://garden-with-flowers.netlify.app/)       |
+| React Project Essentials  | [GitHub Repository](#)                | [Visit Site](https://react-project-essentials.netlify.app/)  |
+| Rick and Morty Characters | [GitHub Repository](#)                | [Visit Site](https://rss-caracters.netlify.app/)             |
+| Rick and Morty            | [GitHub Repository](#)                | [Visit Site](https://rss-ricky-and-morty.netlify.app/)       |
+| GraphQL App               | [GitHub Repository](#)                | [Visit Site](https://rsschoolgraphiql-app.netlify.app/en)    |
+
+
+
 
 
