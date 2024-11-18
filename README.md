@@ -34,7 +34,7 @@
 ### 📌 Front-End Developer Intern (React)  
 **RSSchool | June 2024 - September 2024**
 
-- **Project**: E-commerce SPA Flower Shop App ([Code on GitHub](#)).  
+- **Project**: E-commerce SPA Flower Shop App ([Code on GitHub](https://github.com/MariamKochadze/ecommerce-app)).  
 - **Responsibilities**:  
   - Collaborated with 2 other Front-End Developers.  
   - Configured routes and set up the project structure.  
@@ -48,7 +48,7 @@
 ### 📌 Front-End Developer Intern (React)  
 **RSSchool | June 2024 - September 2024**
 
-- **Project**: GraphQL Application ([Code on GitHub](#)).  
+- **Project**: GraphQL Application ([Code on GitHub](https://github.com/MariamKochadze/graphiql-app)).  
 - **Responsibilities**:  
   - Led a team of 2 Front-End Developers as **Team Leader**.  
   - Set up the project structure.  
@@ -57,6 +57,10 @@
   - Implemented private routes, error boundaries, and 404 error handling.  
 - **Technologies**: React, Next.js/Remix, TypeScript, Redux, React Hook Form + Yup validation, CSS, Material-UI, REST API, Git, Jest, Firebase, GraphQL, ESLint, Prettier, Husky hooks, Trello.
 
+
+💬 Languages:
+- Georgian - native
+- English - B2
 
 
 
