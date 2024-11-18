@@ -29,5 +29,30 @@
 
 
 
+💻 Experience
+
+📌 Front-End Developer Intern (React)
+RSSchool | June 2024 - September 2024
+
+Project: E-commerce SPA Flower Shop App (Code on GitHub).
+Responsibilities:
+Collaborated with 2 other Front-End Developers.
+Configured routes and set up the project structure.
+Implemented a registration form with API integration using Commercetools.
+Developed a detailed product information page with an image slider.
+Designed a cart page, including API integration for fetching, updating, and deleting cart data.
+Technologies: React, TypeScript, Redux, React Hook Form + Yup validation, CSS, Material-UI, REST API, Git, Jest, Commercetools, Trello.
+
+
+📌 Front-End Developer Intern (React)
+Project: GraphQL Application (Code on GitHub).
+Led a team of 2 Front-End Developers as Team Leader.
+Responsibilities:
+Set up the project structure.
+Developed a registration form with Firebase email/password authentication.
+Added client-side validation for password strength and Unicode support.
+Implemented private routes, error boundaries, and 404 error handling.
+Technologies: React, Next.js/Remix, TypeScript, Redux, React Hook Form + Yup validation, CSS, Material-UI, REST API, Git, Jest, Firebase, GraphQL, ESLint, Prettier, Husky hooks, Trello.
+
 
 
