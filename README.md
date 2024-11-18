@@ -20,12 +20,12 @@
 
 | Project Name               | Code                                  | Deploy Link                                                   |
 |----------------------------|---------------------------------------|-------------------------------------------------------------|
-| Coffee House              | [GitHub Repository](#)                | [Visit Site](https://rolling-scopes-school.github.io/mariamkochadze-JSFEEN2023Q4/coffee-house/index.html) |
-| Flower Shop               | [GitHub Repository](#)                | [Visit Site](https://garden-with-flowers.netlify.app/)       |
-| React Project Essentials  | [GitHub Repository](#)                | [Visit Site](https://react-project-essentials.netlify.app/)  |
-| Rick and Morty Characters | [GitHub Repository](#)                | [Visit Site](https://rss-caracters.netlify.app/)             |
-| Rick and Morty            | [GitHub Repository](#)                | [Visit Site](https://rss-ricky-and-morty.netlify.app/)       |
-| GraphQL App               | [GitHub Repository](#)                | [Visit Site](https://rsschoolgraphiql-app.netlify.app/en)    |
+| Coffee House              |               | [Visit Site](https://rolling-scopes-school.github.io/mariamkochadze-JSFEEN2023Q4/coffee-house/index.html) |
+| Flower Shop               | [GitHub Repository](https://github.com/MariamKochadze/ecommerce-app)                | [Visit Site](https://garden-with-flowers.netlify.app/)       |
+| React Project Essentials  | [GitHub Repository](https://github.com/MariamKochadze/React-essentials)                | [Visit Site](https://react-project-essentials.netlify.app/)  |
+| Rick and Morty Characters | [GitHub Repository](https://github.com/MariamKochadze/Monster-project)                | [Visit Site](https://rss-caracters.netlify.app/)             |
+| Rick and Morty            | [GitHub Repository](https://github.com/MariamKochadze/Monster-project)                | [Visit Site](https://rss-ricky-and-morty.netlify.app/)       |
+| GraphQL App               | [GitHub Repository](https://github.com/MariamKochadze/graphiql-app)                | [Visit Site](https://rsschoolgraphiql-app.netlify.app/en)    |
 
 
 
