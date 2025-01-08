@@ -26,6 +26,7 @@
 | Rick and Morty Characters | [GitHub Repository](https://github.com/MariamKochadze/Monster-project)                | [Visit Site](https://rss-caracters.netlify.app/)             |
 | Rick and Morty            | [GitHub Repository](https://github.com/MariamKochadze/Monster-project)                | [Visit Site](https://rss-ricky-and-morty.netlify.app/)       |
 | GraphQL App               | [GitHub Repository](https://github.com/MariamKochadze/graphiql-app)                | [Visit Site](https://rsschoolgraphiql-app.netlify.app/en)    |
+| LeverX Employee Services  | [GitHub Repository](https://github.com/MariamKochadze/LeverX-Project)            | [Visit Site](https://leverx.netlify.app/signin)    |
 
 
 
