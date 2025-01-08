@@ -32,7 +32,7 @@
 
 💻 Experience
 
-### 📌 Front-End Developer Intern (React)  
+### 📌 Front-End Development Intern (React)  
 **RSSchool | June 2024 - September 2024**
 
 - **Project**: E-commerce SPA Flower Shop App ([Code on GitHub](https://github.com/MariamKochadze/ecommerce-app)).  
@@ -46,7 +46,7 @@
 
 ---
 
-### 📌 Front-End Developer Intern (React)  
+### 📌 Front-End Development Intern (React)  
 **RSSchool | June 2024 - September 2024**
 
 - **Project**: GraphQL Application ([Code on GitHub](https://github.com/MariamKochadze/graphiql-app)).  
@@ -57,6 +57,20 @@
   - Added client-side validation for password strength and Unicode support.  
   - Implemented private routes, error boundaries, and 404 error handling.  
 - **Technologies**: React, Next.js/Remix, TypeScript, Redux, React Hook Form + Yup validation, CSS, Material-UI, REST API, Git, Jest, Firebase, GraphQL, ESLint, Prettier, Husky hooks, Trello.
+
+### 📌 Front-End Development (React)  
+**LeverX | November 2024 - December 2024**
+
+- **Project**: LeverX Employee Services ([Code on GitHub](https://github.com/MariamKochadze/LeverX-Project)).  
+- **Responsibilities**:  
+  - Create application by my own
+  - Set up the project structure.  
+  - Implement Sign-In Functionality.Used Bcrypt API for password hashing and
+    checking.  
+  - Implemented a edit functionality( used json-server).
+  - Developed private routes, error boundaries, and 404 handling.  
+  - Implemented private routes, error boundaries, and 404 error handling.  
+- **Technologies**: HTML, DOM, JavaScript, React, TypeScript, CSS, SCSS, MaterialUI, Git, Firebase, ESlint, Prettier,Webpack,json-server.
 
 
 💬 Languages:
