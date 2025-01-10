@@ -69,7 +69,6 @@
     checking.  
   - Implemented a edit functionality( used json-server).
   - Developed private routes, error boundaries, and 404 handling.  
-  - Implemented private routes, error boundaries, and 404 error handling.  
 - **Technologies**: HTML, DOM, JavaScript, React, TypeScript, CSS, SCSS, MaterialUI, Git, Firebase, ESlint, Prettier,Webpack,json-server.
 
 
