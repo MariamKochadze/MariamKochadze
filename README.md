@@ -69,7 +69,7 @@
     checking.  
   - Implemented a edit functionality( used json-server).
   - Developed private routes, error boundaries, and 404 handling.  
-- **Technologies**: HTML, DOM, JavaScript, React, TypeScript, CSS, SCSS, MaterialUI, Git, Firebase, ESlint, Prettier,Webpack,json-server.
+- **Technologies**: HTML, DOM, JavaScript, React, TypeScript, CSS, SASS, MaterialUI, Git, ESlint, Prettier,Webpack,json-server.
 
 
 💬 Languages:
